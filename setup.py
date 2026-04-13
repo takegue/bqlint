@@ -82,7 +82,7 @@ setup(
     tests_require=[
         # to report coverage to codecov.io
         'coverage==4.3.4',
-        'pytest==3.2.2',
+        'pytest==9.0.3',
         'pytest-cov==2.5.1',
         'pytest-faker==2.0.0',
         'pytest-mock==1.6.3',
